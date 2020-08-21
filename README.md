@@ -1,7 +1,14 @@
-### Hi there 👋 My name is Ravi Ranjan
+### Hi there 👋 My name is Ravi Ranjan 
+            - a naive in the crowd of connoisseur.
 
-- 🔭 I’m currently working on .NET stack
-- 🌱 I’m currently learning Dependency Injection and other Design patterns
-- 👯 I’m looking to collaborate on any opensource or maybe interesting projects 
-- 💬 Ask me about anything, If I'm aware I'll let you know.
-- 📫 How to reach me: [Website](https://raviranjanjha.com)
+- :rocket: I’m currently working on Microsoft .NET stack, Javascript, jQuery, MySql.
+
+- 🔭 I also have interest in other technologies which I sometimes try my hands on weekends like C/C++, Flutter, Firebase, Sql Server and React.
+
+- :fire: I’m currently trying to learn Design patterns.
+
+- 👯 I’m looking forward to collaborate on the opensource projects.
+
+- 💬 Ask me about anything, If I know then I would love to help.
+
+- 📫 How to reach me: [Ravi Ranjan](https://raviranjanjha.com)
